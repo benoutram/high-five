@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "highfive",
+    "password": "highfive",
+    "database": "highfive_development",
+    "host": "localhost",
+    "dialect": "sqlite",
+    "storage": "./highfive.sqlite"
+  }
+}
